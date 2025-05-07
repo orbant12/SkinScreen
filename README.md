@@ -6,7 +6,7 @@
    
  - Cause of failiure: Low Demand with High Competition
  
------
+----- 
 
 ### This app is mainly a cross-platform React Native mobile application designed to help in areas of Skin Cancer Prevention with built in CNN deep learning model and an interactive web interface for professional dermotologists with powerful analasis features and the ability to live chat with their clients (Web Socket).
 
