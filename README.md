@@ -15,7 +15,7 @@
 - Daily UV index alert with advice like "What factor of sunscreen should you apply ..." and more. 
 
 ---- 
- 
+  
 # Images   
   
 <img width="280" alt="Screenshot 2025-02-11 at 04 16 39" src="https://github.com/user-attachments/assets/d9d4dbfd-4225-42c8-a8c0-3885b8b93d7b" />
